@@ -112,10 +112,6 @@ After installation, you need to configure the plugin with your specific keys and
 We are working on providing detailed documentation and tutorials to help you get started and dive deeper.
 *(我们正在努力提供详细的文档和教程，敬请期待！如有急需，请通过以下微信交流)*
 
-*   **[Full Technical Blog Post / 完整技术博客文章](链接)**
-*   **[Blueprint API Reference / 蓝图API参考手册](链接)**
-*   **[Frequently Asked Questions (FAQ) / 常见问题解答](链接)**
-
 ---
 
 ## 💬 Community & Support / 社区与支持
